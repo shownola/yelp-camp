@@ -4,7 +4,7 @@ var Comment = require("./models/comment");
 
 var data = [
     {
-       name: "Salmon Creek", image: "https://farm6.staticflickr.com/5276/5852493223_cc575044e7.jpg",
+       name: "Salmon Creek", image: "https://farm6.staticflickr.com/5276/5852493223_cc575044e7.jpg", price: "9.99", location: "Yosemite National Park, CA", author: "Jackson",
        description: "My partner was about to get himself shot. I intervened. He was angry because those two dealers of yours had just murdered an eleven year-old boy. Then again, maybe he thought it was you who gave the order"
     },
     {
